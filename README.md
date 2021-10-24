@@ -1,5 +1,5 @@
-# kiemthu
-bài tập kiểm thử với 2 biến
+# Kiểm thử
+Bài tập kiểm thử với 2 biến
 
 1. Bài toán.
 - Bài toán tính ước số chung lớn nhất của 2 số nguyên.
