@@ -1,4 +1,4 @@
-public class TinhTong {
+public class UocChungLN {
 
     public int findGreatestCommonDivisor(int a, int b) {
         if (a == b || a != 0 && b == 0) {

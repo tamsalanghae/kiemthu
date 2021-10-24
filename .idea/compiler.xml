@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kiemthu" target="17" />
+      <module name="kiemthu" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
